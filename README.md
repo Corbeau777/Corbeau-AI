@@ -4,6 +4,7 @@
 > **Give a system eyes. Define what it should see. Define what it should do.**
 
 Corbeau AI is a modular **real-time computer vision platform** designed to transform visual information into decisions and actions.
+<img width="1916" height="1030" alt="Capture d’écran 2026-08-17 140051" src="https://github.com/user-attachments/assets/1b86cc64-1264-4fe3-99bb-6bce2c87c914" />
 
 The fundamental principle is simple:
 
