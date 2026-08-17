@@ -489,6 +489,10 @@ However:
 
 # 🎬 Demonstration
 
+
+https://github.com/user-attachments/assets/254b1f89-27f9-40a4-8753-b2f00e6be021
+
+
 The current demonstration showcases Corbeau operating inside a highly dynamic real-time visual environment.
 
 It demonstrates the complete pipeline:
